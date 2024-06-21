@@ -61,6 +61,7 @@ nav li {
   align-items: center;
   justify-content: center;
   cursor: pointer;
+  -webkit-user-select: none;
   user-select: none;
   font-size: 0.75em;
 }
