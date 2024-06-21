@@ -6,7 +6,7 @@
 
 #ingame-page {
   width: 100vw;
-  height: 100vh;
+  height: 100svh;
   display: grid;
   grid-template-rows: 3.5rem auto 3.5rem;
   grid-template-columns: 100vw;
