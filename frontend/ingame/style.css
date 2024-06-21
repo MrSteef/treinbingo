@@ -47,6 +47,7 @@ header > :last-child {
 }
 
 nav {
+  font-family: Roboto;
   display: grid;
   grid-template-columns: repeat(5, 20vw);
 }
@@ -55,19 +56,18 @@ nav div {
   width: 100%;
   height: 100%;
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
   cursor: pointer;
   user-select: none;
+  font-size: 0.75em;
 }
 
 
 
 
 /* temporary stuff */
-nav div {
-  outline: 1px solid black
-}
 
 #logo {
   background-color: purple
