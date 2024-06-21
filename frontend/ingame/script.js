@@ -3,5 +3,5 @@ const navButtons = document.querySelectorAll('.nav-button');
 const screens = document.querySelectorAll('.screen');
 
 navButtons.forEach((button, index) => {
-  button.addEventListener('touchstart', () => screens[index].scrollIntoView());
+  button.addEventListener('click', () => screens[index].scrollIntoView());
 });
