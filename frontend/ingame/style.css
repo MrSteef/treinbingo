@@ -22,6 +22,7 @@
 .screen {
   flex: 0 0 100vw;
   scroll-snap-align: center;
+  scroll-snap-stop: always;
 }
 
 header {
