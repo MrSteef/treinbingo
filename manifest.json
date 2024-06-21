@@ -1,7 +1,7 @@
 {
   "name": "Treinbingo",
   "short_name": "Treinbingo",
-  "start_url": "/frontend/ingame",
+  "start_url": "/treinbingo/frontend/ingame",
   "icons": [
     {
       "src": "icons/manifest-icon-192.maskable.png",
